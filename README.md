@@ -22,9 +22,9 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 
 📌 My technical skills include :
 
-💻 Languages :- Flutter , Dart ,C++  
+💻 Languages :- Flutter , Dart ,C++ , NodeJS  
 
-💻 App Front-End Development :- Flutter      
+💻 App Front-End Development :- Flutter  , Dart     
 
 💻 Backend Development and Database Management :- Node Js, MongoDB ,FireBase     
  
