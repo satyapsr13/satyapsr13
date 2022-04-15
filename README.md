@@ -27,7 +27,7 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 💻 App Front-End Development :- Flutter  , Dart     
 
 💻 Backend Development and Database Management :- Node Js, MongoDB ,FireBase     
- 
+<!--  
 <a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
   <img
     alt="Youtube"
@@ -45,8 +45,8 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
-</a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+</a> -->
+<a href="https://www.linkedin.com/in/satyapsr13/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
