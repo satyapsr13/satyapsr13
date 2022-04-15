@@ -52,3 +52,6 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyspsr13"
+/>
