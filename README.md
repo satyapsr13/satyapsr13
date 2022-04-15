@@ -55,6 +55,10 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapsr13"
 />
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/wakatime?username=satyapsr13"
+/>
+ -->
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=satyapsr13&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true"
 />
