@@ -53,5 +53,5 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
   />
 </a>
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyspsr13"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapsr13"
 />
