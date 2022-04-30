@@ -52,6 +52,12 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://www.leeccode.com/in/satyapsr13/">
+  <img
+    alt="Leetcode"
+    src="https://theindianwire.com/wp-content/uploads/2018/06/LeetCode-logo.png"
+  />
+</a>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapsr13"
 />
