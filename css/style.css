@@ -332,6 +332,12 @@ span {
   font-weight: 500;
   font-size: 1.5rem;
 }
+.fun-lottie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3rem auto;
+}
 @media (max-width: 1200px) {
   html {
     font-size: 55%;
@@ -403,14 +409,12 @@ span {
   .portfolio h2 {
     margin-bottom: 3rem;
   }
-  .portfolio-container{
+  .portfolio-container {
     grid-template-columns: repeat(2, 1fr);
-
   }
 }
 
-
-@media (max-width: 617px){
+@media (max-width: 617px) {
   .home-content h3 {
     font-size: 2rem;
   }
@@ -426,9 +430,8 @@ span {
     width: 80vw;
     margin-top: 4rem;
   }
-  .portfolio-container{
+  .portfolio-container {
     grid-template-columns: repeat(1, 1fr);
-
   }
   .portfolio-box .portfolio-layer {
     padding: 0 2rem;
