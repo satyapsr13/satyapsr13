@@ -24,4 +24,7 @@ window.onscroll = () => {
       });
     }
   });
+  // remove toggle icon when navbar is click
+  menuIcon.classList.remove("bx-x");
+  navbar.classList.remove("active");
 };
