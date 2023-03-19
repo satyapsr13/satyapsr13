@@ -30,7 +30,6 @@ body {
   width: 100%;
   padding: 2rem 9%;
   background: var(--bg-color);
-  /* background: transparent; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -377,4 +376,26 @@ span {
   .header {
     padding: 2rem auto;
   }
+  .home {
+    flex-direction: column;
+  }
+  .home-content h3 {
+    font-size: 2.5rem;
+  }
+
+  .home-content h1 {
+    font-size: 5rem;
+  }
+  .home-img img {
+    width: 70vw;
+    margin-top: 4rem;
+  }
+  .about {
+    flex-direction: column-reverse;
+  }
+  .about img {
+    width: 70vw;
+    margin-top: 4rem;
+  }
+  
 }
