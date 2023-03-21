@@ -14,6 +14,7 @@
   --second-bg-color: #323946;
   --text-color: #fff;
   --main-color: #0ef;
+  /* --main-color: rgb(37, 245, 14); */
 }
 html {
   font-size: 62.5%;
@@ -33,6 +34,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   z-index: 100;
 }
 .logo {
@@ -71,7 +73,12 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+  /* justify-content: space-between; */
+  /* flex-direction: row-reverse; */
 }
+/* .home-content{
+  margin-left: 200px;
+} */
 .home-content h3 {
   font-size: 3.2rem;
   font-weight: 700;
