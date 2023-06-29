@@ -30,7 +30,7 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 
 💻 App Front-End Development :- Flutter , Dart
 
-💻 Backend Development :- Node Js, FireBase
+💻 Backend Development :- C# Dotnet, Microservices, Node Js, FireBase
 
 💻 Web Development :- HTML, CSS, Java Script, ReactJS
 
