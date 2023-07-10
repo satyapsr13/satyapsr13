@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="774" alt="image" src="https://github.com/satyapsr13/satyapsr13/assets/73766765/edc1e386-41f5-4fcd-b7a5-69e6718d078b">
+
+
 Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a good understanding of frontend, backend, and project management.
 
 🧑 I am Satya Prakash, pursuing B.Tech in Computer Science and Engineering from UIT RGPV Bhopal. I am interested in learning new technologies and build exciting real-world projects.
