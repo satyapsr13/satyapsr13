@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="auto" alt="image" src="https://github.com/satyapsr13/satyapsr13/assets/73766765/6ee43f59-4441-49eb-ba5c-8756dd9423ff">
 
-<img width="774" alt="image" src="https://github.com/satyapsr13/satyapsr13/assets/73766765/edc1e386-41f5-4fcd-b7a5-69e6718d078b">
 
 
 Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a good understanding of frontend, backend, and project management.
