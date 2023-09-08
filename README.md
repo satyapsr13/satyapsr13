@@ -40,10 +40,6 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 💻 Database Management :- MY SQl , MongoDB , FireStore
   
  
- <img
-  src="https://github-readme-stats.vercel.app/api?username=satyapsr13&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2933&custom_title=Satya-Prakash's+GitHub+Stats&show_icons=true"
-/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyapsr13&label=Profile%20views&color=0e75b6&style=flat" alt="satyapsr13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyapsr13&theme=matrix" alt="satyapsr13" /></a> </p>
