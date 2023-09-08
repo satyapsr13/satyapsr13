@@ -38,47 +38,8 @@ Enthusiastic Full Stack App Developer 👨‍💻 , eager to contribute to team 
 💻 Web Development :- HTML, CSS, Java Script, ReactJS
 
 💻 Database Management :- MY SQl , MongoDB , FireStore
-
-<!--
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://twitter.com/alekswritescode">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/aleks.popovic/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a> -->
-<a href="https://www.linkedin.com/in/satyapsr13/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-<!-- <a href="https://www.leeccode.com/in/satyapsr13/">
-  <img
-    alt="Leetcode"
-    src="https://theindianwire.com/wp-content/uploads/2018/06/LeetCode-logo.png"
-       width:50px
-       height:50px
-  /> -->
-</a>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapsr13"
-/>
-<!-- <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=satyapsr13"
-/>
- -->
+  
+ 
  <img
   src="https://github-readme-stats.vercel.app/api?username=satyapsr13&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2933&custom_title=Satya-Prakash's+GitHub+Stats&show_icons=true"
 />
