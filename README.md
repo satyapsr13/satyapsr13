@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" alt="image" src="https://github.com/satyapsr13/satyapsr13/assets/73766765/6ee43f59-4441-49eb-ba5c-8756dd9423ff">
+ 
 
 
 
